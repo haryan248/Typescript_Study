@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true
+    }
+}
+
+// checkJs -> @ts-check
+// noImplicitAny -> 모든 타입은 최소한 타입을 넣어야 한다.
+
+// [플레이그라운드 사이트](https://www.typescriptlang.org/play/)
+// [바벨 사이트](https://babeljs.io/)
